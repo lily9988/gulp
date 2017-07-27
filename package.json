@@ -1,0 +1,36 @@
+{
+  "name": "2016-db12-deguomapailuntai",
+  "version": "1.0.0",
+  "description": "机油分会场",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "browser": {
+    "zepto": "zepto-commonjs-custom"
+  },
+  "devDependencies": {
+    "base64-qccr": "^1.0.0",
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "gulp-webserver": "^0.9.1",
+    "redPacket-qccr": "^1.0.0",
+    "share": "^1.0.0",
+    "syc-util": "0.0.7",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0",
+    "zepto-commonjs-custom": "^1.0.1",
+    "zepto-getgoodslistbyids ": "^1.0.0"
+  },
+  "author": "shenkaichen@qccr.com",
+  "repository": {
+    "type": "git",
+    "url": "xx.git"
+  },
+  "license": "ISC"
+}
